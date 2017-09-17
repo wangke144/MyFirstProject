@@ -73,5 +73,3 @@ std::ostream &print(std::ostream &os, const Sales_data &item)
 
 	return os;
 }
-
-//读取输入的交易信息
